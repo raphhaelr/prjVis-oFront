@@ -38,3 +38,13 @@ No arquivo .env configurar a variável **`REACT_APP_API_URL`** com o **endereço
 **Obs: Após instalar todas as dependências e setar as variáveis ambiente**
 
 Executar o comando **`yarn start`** ou **`npm start`** para executar o projeto em **http://localhost:3000**
+
+**Usuários para testes:**  
+
+**admin:**  
+email: raphael@email.com  
+password: 123456
+
+**user:**  
+email: nahan@email.com  
+password: 123456
